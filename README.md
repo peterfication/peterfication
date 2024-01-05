@@ -15,3 +15,24 @@
 | [OpenMeteo Ruby](https://github.com/open-meteo-ruby/open-meteo-ruby)                    | Ruby              | I'm the author                                                                            |
 | [textcase.nvim](https://github.com/johmsalas/text-case.nvim)                            | Neovim, Lua       | I'm the main contributor next to the author.                                              |
 | [ruby-enum](https://github.com/dblock/ruby-enum)                                        | Ruby              | [I contributed the exhaustive case matcher.](https://github.com/dblock/ruby-enum/pull/43) |
+
+### Personal projects
+
+#### Peak Tracker
+
+[peak-tracker.com](https://peak-tracker.com)
+
+My source-available side project to play around with Elixir/Pheonix and Typescript/ReactNative.
+
+Repositories:
+
+- [Peak Tracker Auth](https://github.com/peterfication/peak-tracker-auth): The OpenID connect identity provider (Ruby, [Rails](https://rubyonrails.org/), [Doorkeeper](https://github.com/doorkeeper-gem/doorkeeper))
+- [Peak Tracker Backend](https://github.com/peterfication/peak_tracker_backend): The web version and GraphQL API (Elixir, [Phoenix](https://www.phoenixframework.org/), [Ash](https://ash-hq.org/))
+- [Peak Tracker App](https://github.com/peterfication/peak-tracker-app): The mobile app (Typescript, [ReactNative](https://reactnative.dev/))
+
+#### Space Jumper
+
+My go-to game to implement when trying out a new technology.
+
+- [Space Jumper Unity](https://github.com/peterfication/space-jumper-unity): Implementation in Unity, [playable on itch.io](https://peterfication.itch.io/space-jumper)
+- [Space Jumper React](https://github.com/peterfication/space-jumper): An early protoype in React, Implementation in Unity, [playable on the web](https://www.petergundel.de/space-jumper/)
