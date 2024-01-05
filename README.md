@@ -9,6 +9,9 @@
 
 ### Open source contributions
 
-| Project                                                                                 | Main technologies | My contribution |
-| --------------------------------------------------------------------------------------- | ----------------- | --------------- |
-| [RSpec GraphQL integration](https://github.com/peterfication/rspec-graphql-integration) | Ruby, GraphQL     | I'm the author  |
+| Project                                                                                 | Main technologies | My contribution                                                                           |
+| --------------------------------------------------------------------------------------- | ----------------- | ----------------------------------------------------------------------------------------- |
+| [RSpec GraphQL integration](https://github.com/peterfication/rspec-graphql-integration) | Ruby, GraphQL     | I'm the author                                                                            |
+| [OpenMeteo Ruby](https://github.com/open-meteo-ruby/open-meteo-ruby)                    | Ruby              | I'm the author                                                                            |
+| [textcase.nvim](https://github.com/johmsalas/text-case.nvim)                            | Neovim, Lua       | I'm the main contributor next to the author.                                              |
+| [ruby-enum](https://github.com/dblock/ruby-enum)                                        | Ruby              | [I contributed the exhaustive case matcher.](https://github.com/dblock/ruby-enum/pull/43) |
