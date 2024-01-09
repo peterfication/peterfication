@@ -26,9 +26,9 @@ My source-available side project to play around with Elixir/Pheonix and Typescri
 
 Repositories:
 
-- [Peak Tracker Auth](https://github.com/peterfication/peak-tracker-auth): The OpenID connect identity provider (Ruby, [Rails](https://rubyonrails.org/), [Doorkeeper](https://github.com/doorkeeper-gem/doorkeeper))
-- [Peak Tracker Backend](https://github.com/peterfication/peak_tracker_backend): The web version and GraphQL API (Elixir, [Phoenix](https://www.phoenixframework.org/), [Ash](https://ash-hq.org/))
-- [Peak Tracker App](https://github.com/peterfication/peak-tracker-app): The mobile app (Typescript, [ReactNative](https://reactnative.dev/))
+- [Peak Tracker Auth](https://github.com/peterfication/peak-tracker-auth): The OpenID connect identity provider ([Ruby](https://www.ruby-lang.org/), [Rails](https://rubyonrails.org/), [Doorkeeper](https://github.com/doorkeeper-gem/doorkeeper))
+- [Peak Tracker Backend](https://github.com/peterfication/peak_tracker_backend): The web version and GraphQL API ([Elixir](https://elixir-lang.org/), [Phoenix](https://www.phoenixframework.org/), [Ash](https://ash-hq.org/))
+- [Peak Tracker App](https://github.com/peterfication/peak-tracker-app): The mobile app ([Typescript](https://www.typescriptlang.org/), [ReactNative](https://reactnative.dev/))
 
 #### Space Jumper
 
