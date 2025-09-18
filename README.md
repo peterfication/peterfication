@@ -16,6 +16,7 @@
 | [textcase.nvim](https://github.com/johmsalas/text-case.nvim)                            | Neovim, Lua       | I'm the main contributor next to the author.                                              |
 | [ruby-enum](https://github.com/dblock/ruby-enum)                                        | Ruby              | [I contributed the exhaustive case matcher.](https://github.com/dblock/ruby-enum/pull/43) |
 | [num-peek](https://github.com/peterfication/num-peek)                                   | Rust              | I'm the author                                                                            |
+| [mux.yazi](https://github.com/peterfication/mux.yazi)                                   | Lua               | I'm the author                                                                            |
 
 ### Personal projects
 
