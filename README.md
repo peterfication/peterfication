@@ -22,8 +22,6 @@
 
 #### MatchIt
 
-[Playable on the web.](https://match-it.peterfic.uber.space/)
-
 A game about finding matches in a deck of cards.
 
 It's implemented in [Ruby on Rails](https://rubyonrails.org/) and [Hotwire](https://hotwired.dev/) / [Turbo Streams](https://turbo.hotwired.dev/handbook/streams) without any custom Javascript. A game can be played with multiple players via multiple browsers.
