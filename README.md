@@ -30,8 +30,6 @@ It's implemented in [Ruby on Rails](https://rubyonrails.org/) and [Hotwire](http
 
 #### Peak Tracker
 
-[peak-tracker.com](https://peak-tracker.com)
-
 My source-available side project to play around with Elixir/Pheonix and Typescript/ReactNative.
 
 Repositories:
