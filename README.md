@@ -5,7 +5,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=peterfication&theme=solarized-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=peterfication&theme=solarized-dark&show_icons=true&hide_border=true&layout=compact)
 
-[On my blog](https://www.petergundel.de/), I occasionally share technical topics I encountered during engineering work.
+[On my blog](https://www.morgenstern-digital.de/), I occasionally share technical topics I encountered during engineering work.
 
 ### Open source contributions
 
@@ -41,4 +41,4 @@ Repositories:
 My go-to game to implement when trying out a new technology.
 
 - [Space Jumper Unity](https://github.com/peterfication/space-jumper-unity): Implementation in Unity, [playable on itch.io](https://peterfication.itch.io/space-jumper)
-- [Space Jumper React](https://github.com/peterfication/space-jumper): An early protoype in React, Implementation in Unity, [playable on the web](https://www.petergundel.de/space-jumper/)
+- [Space Jumper React](https://github.com/peterfication/space-jumper): An early protoype in React, Implementation in Unity, [playable on the web](https://www.morgenstern-digital.de/space-jumper/)
